@@ -1,1 +1,1 @@
-Some code of machine learning with PySpark.
+Some codes of machine learning with Spark (python and java).
